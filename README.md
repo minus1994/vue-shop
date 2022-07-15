@@ -23,8 +23,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-###
+### 技术栈
 ```
-技术栈
 vue webpack vuex vue-router axios less
 ```
