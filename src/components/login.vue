@@ -38,7 +38,6 @@ export default {
       },
     };
   },
-  mounted() {},
   methods: {
     //登录
     onSubmit(formName) {
